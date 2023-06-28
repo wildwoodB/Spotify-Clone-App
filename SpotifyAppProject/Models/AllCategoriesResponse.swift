@@ -2,7 +2,7 @@
 //  CategoriesResponse.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 24.04.2023.
+//  Created by Nikita Borisov on 24.04.2023.
 //
 
 import Foundation

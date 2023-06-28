@@ -2,7 +2,7 @@
 //  NewRealeseCollectionViewCell.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 04.04.2023.
+//  Created by Nikita Borisov on 04.04.2023.
 //
 
 import UIKit

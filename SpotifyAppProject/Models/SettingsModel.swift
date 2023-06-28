@@ -2,7 +2,7 @@
 //  SettingsModel.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 27.03.2023.
+//  Created by Nikita Borisov on 27.03.2023.
 //
 
 import Foundation

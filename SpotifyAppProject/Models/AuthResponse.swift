@@ -2,7 +2,7 @@
 //  AuthResponse.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 23.03.2023.
+//  Created by Nikita Borisov on 23.03.2023.
 //
 
 import Foundation

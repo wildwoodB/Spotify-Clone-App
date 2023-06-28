@@ -2,7 +2,7 @@
 //  Extensions.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 22.03.2023.
+//  Created by Nikita Borisov on 22.03.2023.
 //
 
 import Foundation

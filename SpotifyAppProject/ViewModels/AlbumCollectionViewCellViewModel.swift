@@ -2,7 +2,7 @@
 //  AlbumCollectionViewCellViewModel.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 20.04.2023.
+//  Created by Nikita Borisov on 20.04.2023.
 //
 
 import Foundation

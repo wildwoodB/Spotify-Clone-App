@@ -2,7 +2,7 @@
 //  PlaylistDetailResponse.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 10.04.2023.
+//  Created by Nikita Borisov on 10.04.2023.
 //
 
 import Foundation

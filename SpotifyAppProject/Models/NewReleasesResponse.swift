@@ -2,7 +2,7 @@
 //  NewReleasesResponse.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 30.03.2023.
+//  Created by Nikita Borisov on 30.03.2023.
 //
 
 import Foundation

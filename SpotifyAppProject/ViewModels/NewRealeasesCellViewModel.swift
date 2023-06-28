@@ -2,7 +2,7 @@
 //  NewRealeasesCellViewModel.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 05.04.2023.
+//  Created by Nikita Borisov on 05.04.2023.
 //
 
 import Foundation

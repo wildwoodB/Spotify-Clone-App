@@ -2,7 +2,7 @@
 //  SearchResults.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 02.05.2023.
+//  Created by Nikita Borisov on 02.05.2023.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  FeaturedPlaylistCellViewModel.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 06.04.2023.
+//  Created by Nikita Borisov on 06.04.2023.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  PlaybackPresenter.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 08.05.2023.
+//  Created by Nikita Borisov on 08.05.2023.
 //
 import AVFoundation
 import Foundation

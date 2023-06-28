@@ -2,7 +2,7 @@
 //  SearchResultSubtitleTableViewCellViewModel.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 03.05.2023.
+//  Created by Nikita Borisov on 03.05.2023.
 //
 
 import Foundation

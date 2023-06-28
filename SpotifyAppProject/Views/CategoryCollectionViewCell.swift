@@ -2,7 +2,7 @@
 //  GenreCollectionViewCell.swift
 //  SpotifyAppProject
 //
-//  Created by Админ on 24.04.2023.
+//  Created by Nikita Borisov on 24.04.2023.
 //
 
 import UIKit
@@ -46,11 +46,6 @@ class CategoryCollectionViewCell: UICollectionViewCell {
         super.init(frame: frame)
         contentView.layer.cornerRadius = 10
         contentView.layer.masksToBounds = true
-        
-//        let rotation = CGFloat((90 / CGFloat.pi) / 180)
-//
-//        let rotateTransform = CGAffineTransform(rotationAngle: rotation)
-//        //let rotatedImage =
         
         imageView.layer.shadowOpacity = 1
         imageView.layer.shadowColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.5).cgColor
